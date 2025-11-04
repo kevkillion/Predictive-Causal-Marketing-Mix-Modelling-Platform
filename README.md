@@ -1,5 +1,5 @@
 # 📈 Predictive & Causal Marketing Mix Modelling Platform  
-**Powered by:** PyMC | Python | MLflow | Power BI | Meridian (Google) | Robyn (Meta) | PMG Analytics  
+**Powered by:** PyMC | Python | MLflow | Power BI | Meridian (Google) | Robyn (Meta)
 
 ![MMM Causal Framework Diagram](docs/Marketing_Mix_Modelling_Causal_Framework.png)
 
