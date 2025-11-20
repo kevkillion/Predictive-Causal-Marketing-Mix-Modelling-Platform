@@ -26,7 +26,7 @@ It empowers marketing and data science teams to move beyond single-model depende
 | 🧩 **Multi-Model Selection & Testing** | Integrates **multiple MMM frameworks** (PyMC Bayesian, Meridian Frequentist, Robyn Lasso) within the same workflow for side-by-side comparison, ensuring cross-validated, stable outcomes. |
 | 🧪 **Rigorous Cross-Validation Framework** | Performs **train-test splits, k-fold validation, and baseline model confirmation** to test reliability, predictive accuracy, and out-of-sample generalisation. |
 | ⚙️ **MLflow Tracking & Version Control** | Logs every model run, hyperparameter, and posterior trace, enabling transparent replication, comparison, and tuning. |
-| 📊 **Power BI Multi-Model Dashboard** | Enables **filterable model selection** — compare Bayesian vs. frequentist outputs, view elasticity curves, ROI matrices, and channel prioritisation dashboards interactively. |
+| 📊 **Power BI Multi-Model Analytics Platform** | Enables **filterable model selection** — compare Bayesian vs. frequentist outputs, view elasticity curves, ROI matrices, and channel prioritisations interactively. |
 | ☁️ **Partitioned Cloud Data Architecture** | Uses BigQuery or Delta Lake with partitioned datasets for efficient retraining, scalability, and time-based analysis. |
 
 ---
@@ -53,7 +53,7 @@ It empowers marketing and data science teams to move beyond single-model depende
   Identifies indirect effects and channel synergies using causal graphs and structural equations.  
 
 - 🧩 **Multi-Model Filterability & Testing**  
-  Power BI dashboards allow stakeholders to **filter, compare, and validate** results across multiple model frameworks (PyMC Bayesian, Meridian, Robyn).  
+  Power BI Analytics Platforms allow stakeholders to **filter, compare, and validate** results across multiple model frameworks (PyMC Bayesian, Meridian, Robyn).  
 
 - 🧪 **Rigorous Cross-Validation**  
   Implements **time-series rolling validation** and **k-fold splits**, verifying model consistency and predictive accuracy relative to Google Meridian and Meta Robyn baselines.  
@@ -69,11 +69,11 @@ It empowers marketing and data science teams to move beyond single-model depende
 
 ---
 
-## 📊 Power BI Multi-Model Dashboard  
+## 📊 Power BI Multi-Model Analytics Platform  
 
 ![Power BI MMM Dashboard](docs/PowerBI_MMM_Insights_Dashboard.png)
 
-**Dashboard Highlights:**  
+**Analytics Platform Highlights:**  
 - Bayesian vs Frequentist model comparison  
 - Channel contribution & synergy decomposition  
 - Marginal ROI and elasticity curves  
@@ -91,7 +91,7 @@ It empowers marketing and data science teams to move beyond single-model depende
 - Validated and optimised media allocation across **SEM, Social, TV, OOH, and Radio**.  
 - **Triangulated results across Meridian, Robyn, and PyMC** for model confirmation and governance rigour.  
 - Reduced modelling uncertainty and improved confidence in investment decisions.  
-- Enabled **live Power BI dashboards** with multi-model selection and real-time reallocation insights.  
+- Enabled **live Power BI Analytics Platform** with multi-model selection and real-time reallocation insights.  
 - Delivered measurable financial outcomes: **AUD 2.5M+ savings**, **$12M ROI uplift**, and **15% greater media efficiency**.  
 
 ---
@@ -103,6 +103,6 @@ It empowers marketing and data science teams to move beyond single-model depende
 3. **Model Execution:** Runs Bayesian MMM (PyMC) + Frequentist (Robyn/Meridian) in parallel.  
 4. **Validation:** Cross-validates results and confirms predictive consistency.  
 5. **Tracking:** Logs all versions in MLflow for comparison and reproducibility.  
-6. **Visualisation:** Publishes ROI curves, contributions, and scenario models to Power BI dashboards.  
+6. **Visualisation:** Publishes ROI curves, contributions, and scenario models to Power BI Analytics Platform.  
 
 ---
